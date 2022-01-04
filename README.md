@@ -1,4 +1,4 @@
-DEPLYED HERE : https://react-you-tubeui-2z9vqajvq-clementarnaudleo.vercel.app/
+DEPLOYED HERE : https://react-you-tubeui-2z9vqajvq-clementarnaudleo.vercel.app/
 
 
 # Getting Started with Create React App
